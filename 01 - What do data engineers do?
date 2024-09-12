@@ -1,0 +1,7 @@
+#1 - What do data engineers do?
+
+Assignment:
+
+Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need. 
+
+Understand the business operations to gain some insights. Discuss the requirements for the end users by determining sources of data to be ingested, tools that needed to be used, the data warehouse to store for the end users, as well as the data governance.
